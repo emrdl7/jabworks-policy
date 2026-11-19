@@ -43,6 +43,11 @@
     color: var(--color-accent-strong);
     text-underline-offset: 0.18em;
   }
+
+  button {
+    font: inherit;
+    cursor: pointer;
+  }
 }
 
 @layer components {
